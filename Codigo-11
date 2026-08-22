@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 11 - CSS</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+
+<body>
+    <h1>Ejercicio 11</h1>
+
+    <p>
+        Una de las principales ventajas de utilizar hojas de estilo es que podemos aplicar las mismas reglas a una parte o a todas las páginas de un sitio web.
+        Esto resulta muy útil cuando necesitamos realizar cambios, ya que al modificar las reglas de este archivo también podemos cambiar la apariencia de varias páginas.
+    </p>
+</body>
+</html>
