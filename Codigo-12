@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 12 - CSS</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+
+<body>
+    <h1 class="resaltado">Ejemplo de clase CSS</h1>
+
+    <p>
+        En este párrafo podemos observar cómo se aplica la clase 
+        <span class="resaltado">resaltado.</span>
+    </p>
+</body>
+</html>
