@@ -6,19 +6,19 @@
     <title>Ejercicio 10</title>
     <style>
         body {
-            background: #f5f5dc;
+            background: Rojo;
         }
 
         h1 strong {
-            color: #0000ff;
+            color: Vino;
         }
 
         p strong {
-            color: #ff0000;
+            color: Rosa;
         }
 
         h1 {
-            color: #808080;
+            color: Azul;
         }
     </style>
 </head>
