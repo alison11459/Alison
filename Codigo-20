@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style20.css">
+    <title>EJERCICIO 20 - CSS</title>
+</head>
+
+<body>
+    <p>Este es un texto de ejemplo para aplicar estilos.</p>
+</body>
+</html>
