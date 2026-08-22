@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style25.css">
+    <title>EJERCICIO 25 - CSS</title>
+</head>
+
+<body>
+    <h1>Aplicando el selector universal</h1>
+    <h2>Ejemplo práctico</h2>
+    <p>Uso del selector universal *</p>
+</body>
+</html>
