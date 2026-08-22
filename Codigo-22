@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style22.css">
+    <title>EJERCICIO 22</title>
+</head>
+
+<body>
+    <p class="comentarios">
+        Este texto permite comprobar cómo funciona la propiedad padding.
+        Esta prueba sirve para observar el espacio interno que se genera.
+        Podemos utilizar padding para separar el contenido de los bordes.
+        La propiedad puede modificar la apariencia y distribución del texto.
+        En este ejemplo se utiliza un párrafo para visualizar el resultado.
+        De esta manera podemos comprobar fácilmente el efecto del padding.
+        CSS permite controlar estos espacios de una manera sencilla.
+    </p>
+</body>
+</html>
