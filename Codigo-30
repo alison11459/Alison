@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EJERCICIO 30</title>
+</head>
+
+<body>
+
+<p class="parrafoestrecho">
+    Damián es una novela de Alex Mírez que combina misterio, romance 
+    y situaciones inesperadas. La historia presenta personajes con 
+    personalidades complejas y una trama que mantiene la curiosidad 
+    del lector mientras se van descubriendo nuevos secretos.
+</p>
+
+<p>
+    La novela se caracteriza por sus momentos de tensión, sus giros 
+    inesperados y la relación entre sus personajes. A medida que 
+    avanza la historia, se conocen diferentes aspectos de ellos y 
+    se desarrollan situaciones que hacen que el lector quiera 
+    continuar leyendo para descubrir qué ocurrirá después.
+</p>
+
+</body>
+</html>
