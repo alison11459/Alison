@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style18.css">
+    <title>EJERCICIO 18</title>
+</head>
+
+<body>
+    <ul class="vacio">
+        <li>Colombia</li>
+        <li>Chile</li>
+        <li>Perú</li>
+    </ul>
+
+    <ul class="circulorelleno">
+        <li>Colombia</li>
+        <li>Chile</li>
+        <li>Perú</li>
+    </ul>
+
+    <ul class="circulovacio">
+        <li>Colombia</li>
+        <li>Chile</li>
+        <li>Perú</li>
+    </ul>
+
+    <ul class="cuadrado">
+        <li>Colombia</li>
+        <li>Chile</li>
+        <li>Perú</li>
+    </ul>
+
+    <ul class="decimal">
+        <li>Colombia</li>
+        <li>Chile</li>
+        <li>Perú</li>
+    </ul>
+
+    <ul class="romanominuscula">
+        <li>Colombia</li>
+        <li>Chile</li>
+        <li>Perú</li>
+    </ul>
+
+    <ul class="romanomayuscula">
+        <li>Colombia</li>
+        <li>Chile</li>
+        <li>Perú</li>
+    </ul>
+
+    <ul class="letrasminusculas">
+        <li>Colombia</li>
+        <li>Chile</li>
+        <li>Perú</li>
+    </ul>
+
+    <ul class="letrasmayusculas">
+        <li>Colombia</li>
+        <li>Chile</li>
+        <li>Perú</li>
+    </ul>
+</body>
+</html>
