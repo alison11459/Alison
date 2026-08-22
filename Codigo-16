@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style16.css">
+    <title>Ejemplo de código</title>
+</head>
+
+<body>
+    <pre class="codigofuente">
+public class Cuadrado{
+  // atributos
+  int lado;
+  boolean relleno;
+
+  // métodos
+  public int devolverArea(){
+    return lado*lado;
+  }
+
+  public void rellenar(boolean r){
+    relleno=r;
+  }
+
+  public void cambiarTamano(int l){
+    lado=l;
+  }
+
+  public Cuadrado() {// constructor
+    lado=15;
+    relleno=false;
+  }
+}// fin clase Cuadrado
+</pre>
+</body>
+</html>
