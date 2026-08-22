@@ -1,0 +1,13 @@
+#caja1, #caja3 {
+    background-color: #f5a6a6;
+    font-family: Arial;
+    font-size: 1.25rem;
+}
+
+#caja2 {
+    background-color: #ffe066;
+    font-size: 1.25rem;
+    position: absolute;
+    left: 50px;
+    top: 35px;
+}
